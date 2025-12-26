@@ -27,6 +27,7 @@ Python, Requests, BeautifulSoup, lxml
    Output JSON will be saved in the project folder.
 
 ## Notes
-Some platforms block bots.  
-The script does NOT bypass security.  
-Trustpilot works fully to demonstrate functionality.
+G2 and Capterra employ strong bot-protection systems which block non-browser traffic (403). Instead of attempting to bypass security — which may violate TOS — the script detects blocking and exits gracefully. A 3rd SaaS review source was implemented to ensure functionality within ethical and technical constraints.
+->Some platforms block bots.  
+->The script does NOT bypass security.  
+->Trustpilot works fully to demonstrate functionality.
