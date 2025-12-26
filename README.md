@@ -4,9 +4,9 @@ This project scrapes SaaS product reviews and saves them as JSON.
 
 ## Features
 - Choose review source:
-  - Trustpilot ✅ (fully working)
-  - G2 🚧 (may return 403 due to bot protection)
-  - Capterra 🚧 (may return 403 due to bot protection)
+  - Trustpilot (fully working)
+  - G2 (it may return 403 due to bot protection)
+  - Capterra (it may return 403 due to bot protection)
 - Input date range
 - Pagination support
 - JSON output
