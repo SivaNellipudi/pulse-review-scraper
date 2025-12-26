@@ -16,7 +16,6 @@ This project scrapes SaaS product reviews and saves them as JSON.
 Python, Requests, BeautifulSoup, lxml
 
 ## How To Run
-
 1. Install dependencies  
    pip install -r requirements.txt
 
